@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasser Aderghal</h1>
-<h3 align="center">A passionate software engineering student from Morocco</h3>
+<h3 align="center">A passionate computer science student from Morocco</h3>
 
 <p align="left"> <a href="https://twitter.com/yasseraderghal" target="blank"><img src="https://img.shields.io/twitter/follow/yasseraderghal?logo=twitter&style=for-the-badge" alt="yasseraderghal" /></a> </p>
 
